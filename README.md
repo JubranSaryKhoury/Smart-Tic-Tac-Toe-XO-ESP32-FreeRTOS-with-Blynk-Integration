@@ -7,5 +7,6 @@ An ESP32-based Tic-Tac-Toe game with Blynk IoT integration featuring:
 <br>
 <br>
 
-![ar1](https://github.com/user-attachments/assets/54469e6a-e472-427b-94f9-1c65e58e1001)
-![ar2](https://github.com/user-attachments/assets/f8ba5d94-f8dc-43c5-b0cc-194b47c8b9a2)
+<img src="https://github.com/user-attachments/assets/54469e6a-e472-427b-94f9-1c65e58e1001" width="300" height="600">
+
+<img src="https://github.com/user-attachments/assets/61d55d6a-9f9b-4d93-969c-c90a5bbe8731" width="400">
